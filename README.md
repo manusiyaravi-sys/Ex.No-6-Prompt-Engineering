@@ -36,6 +36,8 @@ if sentiment['compound'] > 0:
 else:
     print("\nInsight: The review tone is neutral or negative.")
 ~~~
-Result: 
+output: 
 ![prompt 6](https://github.com/user-attachments/assets/7aaaf215-57ec-4ddd-9730-cb2946984cbd)
-
+![prompt 6](https://github.com/user-attachments/assets/345f9e00-8e0b-44da-b623-fd6c6ce4a6c5)
+result:
+the program is successfully verified.
